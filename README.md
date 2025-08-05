@@ -37,9 +37,41 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
+</p>
 
 
-- 👋 Hi, I’m @KarthikNambiar135
+## 🎨 Featured Projects
+
+<div align="center">
+  
+[![Xentrix Website](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=xentrix-website&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/yourusername/xentrix-website)
+[![Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=quiz-app&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/yourusername/quiz-app)
+
+</div>
+
+
+<h2 align="center">⚡ My Coding Journey</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=timeline&color=gradient&height=300&section=header&text=React%20Developer&fontSize=50&animation=fadeIn" />
+</p>
+
+
+<h3 align="center">🎵 Currently Vibing To:</h3>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&count=1" />
+</p>
+
+
 - 👀 I’m interested in Web Development as it is one of the easiest way to host your project and ideas on the vast internet. It also helps me in designing various UI/UX Models.
 - GAME DEVELOPMENT is another huge interest of mine, and i would be glad to learn more in this field as it allows a free world for programmers to make their code alive.
 - 🌱 I’m currently improving myself in ReactJS and Python and other aspects of Web Development.
