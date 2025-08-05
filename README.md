@@ -43,10 +43,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
-</p>
-
 
 ## 🎨 Featured Projects
 
@@ -56,20 +52,6 @@
 [![Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=quiz-app&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/yourusername/quiz-app)
 
 </div>
-
-
-<h2 align="center">⚡ My Coding Journey</h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=timeline&color=gradient&height=300&section=header&text=React%20Developer&fontSize=50&animation=fadeIn" />
-</p>
-
-
-<h3 align="center">🎵 Currently Vibing To:</h3>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&count=1" />
-</p>
 
 
 - 👀 I’m interested in Web Development as it is one of the easiest way to host your project and ideas on the vast internet. It also helps me in designing various UI/UX Models.
