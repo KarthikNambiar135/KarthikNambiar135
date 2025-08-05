@@ -3,8 +3,9 @@
 </div>  
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+a+Full-Stack+Developer;Passionate+about+Learning+%26+&+Gaming;Welcome+to+my+profile!&center=true&size=30$width=800">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+a+Full-Stack+Developer;Passionate+about+Learning+%26+Gaming;Welcome+to+my+profile!&center=true&size=30&width=800&height=80&vCenter=true">
 </h1>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" />
