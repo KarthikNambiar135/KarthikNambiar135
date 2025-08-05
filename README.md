@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+a+Frontend+Developer;Passionate+about+React+%26+Animations;Welcome+to+my+profile!&center=true&size=30">
+</h1>
+
+
+
 - 👋 Hi, I’m @KarthikNambiar135
 - 👀 I’m interested in Web Development as it is one of the easiest way to host your project and ideas on the vast internet. It also helps me in designing various UI/UX Models.
 - GAME DEVELOPMENT is another huge interest of mine, and i would be glad to learn more in this field as it allows a free world for programmers to make their code alive.
