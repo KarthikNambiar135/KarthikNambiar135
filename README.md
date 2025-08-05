@@ -42,15 +42,15 @@
 </p>
 
 
-
-## 🎨 Featured Projects
-
 <div align="center">
   
-[![Xentrix Website](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=xentrix-website&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/yourusername/xentrix-website)
-[![Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=quiz-app&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/yourusername/quiz-app)
+## 🎨 Featured Projects
+
+[![MyProjectGallery](https://github-readme-stats.vercel.app/api/pin/?username=KarthikNambiar135&repo=MyProjectGallery&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/KarthikNambiar135/MyProjectGallery)
+[![KartMart](https://github-readme-stats.vercel.app/api/pin/?username=KarthikNambiar135&repo=KartMart&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/KarthikNambiar135/KartMart)
 
 </div>
+
 
 
 - 👀 I’m interested in Web Development as it is one of the easiest way to host your project and ideas on the vast internet. It also helps me in designing various UI/UX Models.
