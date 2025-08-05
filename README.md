@@ -45,11 +45,12 @@
 <div align="center">
   
 ## 🎨 Featured Projects
-
+  
 [![MyProjectGallery](https://github-readme-stats.vercel.app/api/pin/?username=KarthikNambiar135&repo=MyProjectGallery&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/KarthikNambiar135/MyProjectGallery)
 [![KartMart](https://github-readme-stats.vercel.app/api/pin/?username=KarthikNambiar135&repo=KartMart&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/KarthikNambiar135/KartMart)
 
 </div>
+
 
 
 
