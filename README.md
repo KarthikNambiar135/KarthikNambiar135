@@ -30,11 +30,11 @@
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Full--Stack_Developer-About_Me-purple?style=for-the-badge&logoColor=white" />
-  <a href="mailto:karthik.nambiar@example.com">
+  <img src="https://img.shields.io/badge/💻_Full--Stack_Developer-purple?style=for-the-badge&logoColor=white" />
+  <a href="mailto:karthiknambiar135@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-karthik.nambiar@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/karthiknambiar135">
+  <a href="https://www.linkedin.com/in/karthik-nambiar-739957289/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Karthik_Nambiar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
