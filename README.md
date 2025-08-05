@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Karthik%20Nambiar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
+</div>  
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+a+Full-Stack+Developer;Passionate+about+Learning+%26+&+Gaming;Welcome+to+my+profile!&center=true&size=30$width=800">
