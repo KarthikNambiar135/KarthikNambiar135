@@ -6,6 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+a+Full-Stack+Developer;Passionate+about+Learning+%26+&+Gaming;Welcome+to+my+profile!&center=true&size=30$width=800">
 </h1>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" />
+</p>
+
+
 
 
 
