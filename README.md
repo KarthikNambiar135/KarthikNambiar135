@@ -27,7 +27,7 @@
 </div>
 
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻_Full--Stack_Developer-purple?style=for-the-badge&logoColor=white" />
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<h2 align="center">💻 Programming Languages</h2>
+<h2 align="center">Programming Languages</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h2 align="center">🚀 Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -74,7 +74,7 @@
 
 <div align="center">
   
-## 🎨 Featured Projects
+## Featured Projects
   
 [![MyProjectGallery](https://github-readme-stats.vercel.app/api/pin/?username=KarthikNambiar135&repo=MyProjectGallery&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/KarthikNambiar135/MyProjectGallery)
 [![KartMart](https://github-readme-stats.vercel.app/api/pin/?username=KarthikNambiar135&repo=KartMart&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/KarthikNambiar135/KartMart)
