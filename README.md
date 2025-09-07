@@ -90,7 +90,6 @@
 - Trying to get grasp of basics of Machine Learning, fairly good at Prompt Engineering.
 - 💞️ I’m looking to collaborate on anything that is related to my above interests and which would help me learn more.
 - 📫 How to reach me: ITS EASY! email: karthiknambiar135@gmail.com / karthiknambiar135@yahoo.com
-- 😄 Pronouns: He/Him
 <!--- ⚡ Fun fact: --->
 
 <!---
